@@ -2,9 +2,6 @@
 
 - 🎓 Estudante de Sistemas de informação
 - ⚙️ Atualmente atuo como estagiário de front-end
-
-<img style="width:100%;height:0;padding-bottom:47%;position:relative;" src="https://media.giphy.com/media/QEQvFEn0qYPk7gT3i6/giphy.gif" />
-
 <br>
 
 ### Minhas tecnologias de atuação 👇
@@ -27,8 +24,6 @@
 <br>
 
 [![HJosephDEV](https://github-readme-stats.vercel.app/api/top-langs/?username=HJosephDev&hide=html&layout=compact&theme=tokyonight)](https://github.com/HJosephDEV/)
-
-<br>
 
 ### Encontre-me aqui 👇
 
