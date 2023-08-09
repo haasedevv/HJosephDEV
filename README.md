@@ -17,6 +17,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HJosephDEV&bg_color=0d1117&color=1A34FC&line=691DFE&point=FFDCA6&area=true&area_color=2B2F5E&title_color=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### Sobre 😀
+
+<p>Sou desenvolvedor front-end e atuo com desenvolvimento de novos projetos, ajustes e correções de funcionalidades. Possuo análise crítica para encontrar pontos de melhoria e possíveis falhas que possam estar ocorrendo. Atualmente desenvolvo utilizando React com vite, Next.js, Vue, Node.js e PostgreSQL.Tenho como objetivo ajudar pessoas com meu conhecimento e me desenvolver cada vez mais como front-end.</p>
+
 ### Tecnologias de atuação ☕
 <br>
 <div align="center">
