@@ -17,7 +17,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HJosephDEV&bg_color=0d1117&color=1A34FC&line=691DFE&point=FFDCA6&area=true&area_color=2B2F5E&title_color=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Tecnologias de atuação
+### Tecnologias de atuação ☕
+<br>
 <div align="center">
   
   [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,vitel)](https://skillicons.dev)
@@ -36,7 +37,7 @@
 
 <br><br>
 
-### Experiência de trabalho
+### Experiência de trabalho 💻
 
 [<img align="left" height="94px" width="94px" alt="codenapp" src="https://codenapp.com/site/images/Code_logo.svg"/>](https://codenapp.com/pt)
 
