@@ -39,7 +39,7 @@
 </div>
 
 
-<br><br>
+<br>
 
 ### Experiência de trabalho 💻
 
@@ -58,7 +58,6 @@ Projetos em destaque: [Indsiders](https://indsiders.com)
 Linguagens & Tecnologias: `Vue`, `Vuex`, `Boostrap`, `VueMultiselect`\
 <br/>
 
-<br/>
 <br/>
 
 
