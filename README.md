@@ -19,7 +19,7 @@
 
 ### Sobre 😀
 
-<p>Sou desenvolvedor front-end e atuo com desenvolvimento de novos projetos, ajustes e correções de funcionalidades. Possuo análise crítica para encontrar pontos de melhoria e possíveis falhas que possam estar ocorrendo. Atualmente desenvolvo utilizando React com vite, Next.js, Vue, Node.js e PostgreSQL. Tenho como objetivo ajudar pessoas com meu conhecimento e me desenvolver cada vez mais como front-end.</p>
+<p>Sou desenvolvedor front-end e atuo com desenvolvimento de novos projetos, ajustes e correções de funcionalidades. Possuo análise crítica para encontrar pontos de melhoria e possíveis falhas que possam estar ocorrendo. Atualmente desenvolvo utilizando React.js, React Native, Next.js, Vue, Nuxt.js, Node.js, Nest.js e PostgreSQL. Tenho como objetivo ajudar pessoas com meu conhecimento e me desenvolver cada vez mais como front-end.</p>
 
 ### Tecnologias de atuação ☕
 <br>
