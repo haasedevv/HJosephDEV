@@ -45,7 +45,7 @@
 
 [<img align="left" height="94px" width="94px" alt="codenapp" src="https://codenapp.com/site/images/Code_logo.svg"/>](https://codenapp.com/pt)
 
-**Front-end Developer** \
+**Front-end Developer ** \
 [**Code n'App**](https://codenapp.com/pt) • Full-time \
 Linguagens & Tecnologias: `Vue`, `Vuex`, `Boostrap`, `VueMultiselect`, `Next`\
 Projetos em destaque: [Indsiders](https://indsiders.com)
