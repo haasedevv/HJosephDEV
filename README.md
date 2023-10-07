@@ -17,17 +17,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HJosephDEV&bg_color=0d1117&color=1A34FC&line=691DFE&point=FFDCA6&area=true&area_color=2B2F5E&title_color=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Sobre 😀
-
-<p>Sou desenvolvedor front-end e atuo com desenvolvimento de novos projetos, ajustes e correções de funcionalidades. Possuo análise crítica para encontrar pontos de melhoria e possíveis falhas que possam estar ocorrendo. Atualmente desenvolvo utilizando React.js, React Native, Next.js, Vue, Nuxt.js, Node.js, Nest.js e PostgreSQL. Tenho como objetivo ajudar pessoas com meu conhecimento e me desenvolver cada vez mais como front-end. </p>
 
 ### Tecnologias de atuação ☕
 <br>
 <div align="center">
   
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,vitel)](https://skillicons.dev)
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=jquery,styledcomponents,scss,tailwind,bootstrap,nodejs,postgresql)](https://skillicons.dev) 
-  
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,next)](https://skillicons.dev)
+  <br>
+    [![Minhas Habilidades](https://skillicons.dev/icons?i=vite,jquery,styledcomponents,scss,tailwind,nodejs,postgresql)](https://skillicons.dev)
 </div>
 
 <br>
@@ -45,7 +42,7 @@
 
 [<img align="left" height="94px" width="94px" alt="codenapp" src="https://codenapp.com/site/images/Code_logo.svg"/>](https://codenapp.com/pt)
 
-**Front-end Developer ** \
+**Front-end Developer** \
 [**Code n'App**](https://codenapp.com/pt) • Full-time \
 Linguagens & Tecnologias: `Vue`, `Vuex`, `Boostrap`, `VueMultiselect`, `Next`\
 Projetos em destaque: [Indsiders](https://indsiders.com)
