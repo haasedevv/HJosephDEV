@@ -15,6 +15,8 @@
 
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HJosephDEV&bg_color=0d1117&color=1A34FC&line=691DFE&point=FFDCA6&area=true&area_color=2B2F5E&title_color=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Tecnologias de atuação ☕
 <br>
 <div align="center">
